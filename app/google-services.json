@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "286735852714",
+    "firebase_url": "https://live-streaming-app-16dbd.firebaseio.com",
+    "project_id": "live-streaming-app-16dbd",
+    "storage_bucket": "live-streaming-app-16dbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286735852714:android:c8b43525d3ee2246",
+        "android_client_info": {
+          "package_name": "broadcast.edge.com.broadcasterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286735852714-65jo23758240vd2cbesndrd03ebcl7ap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAphaVWlZ-hiKSTDh-gz9F0hlf4IBiPhGo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
